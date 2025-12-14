@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 SoftwareSerial BT(2, 3);  // D2=RX, D3=TX
 
-const int LedBlauw = 12;
+const int LedBlauw = 13;
 char ch = 0;
 
 void setup() {

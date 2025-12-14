@@ -2,7 +2,7 @@
 minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceerd worden tussen de microcontroller en een smartphone, gebruik makend van [Serial Bluetooth Terminal]
 <br />
 ### configuratie
-video met alle uitleg die je nodig hebt voor bluetooth module in te stellen:  **https://www.youtube.com/watch?v=A0uFtI_hX6Q **
+Video met alle uitleg die je nodig hebt voor bluetooth module in te stellen:  **https://www.youtube.com/watch?v=A0uFtI_hX6Q **
 ### opmerkingen
 
 ### gebruiksaanwijzing

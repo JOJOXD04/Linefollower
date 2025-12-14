@@ -11,8 +11,8 @@ Video met alle uitleg die je nodig hebt voor bluetooth module in te stellen: **h
 De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth terminal", is beschikbaar op de google playstore.
 
 #### commando's
-debug [on/off]  
-start  
+debug  
+run
 stop  
 set cycle [µs]  
 set power [0..255]  

@@ -40,9 +40,5 @@ Print de parcours. Steek de batterijen in de houder en zet de schakelaar aan. De
 ### stap 12 
 Verbind met de smartphone met de Follower en test. Pas de waarde aan van de PID regelaar zodat de lijn goed gevolgd wordt.
 
-Hier zijn mijn instellingen:
-
-<img width="350" height="205" alt="image" src="https://github.com/user-attachments/assets/c38ff856-c8b0-4da9-a5a6-80b79d5811ff" />
-
 Vergeet niet opnieuw wit en zwart te calibreren op het parcour!
 Veel plezier!

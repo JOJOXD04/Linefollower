@@ -6,8 +6,9 @@ Batterijen worden opgeladen met een lader die specifiek ontworpen is voor 18650 
 ### draadloze communicatie
 #### verbinding maken
 Er wordt een hc-05 gebruikt. **Werkt alleen met android!**
-Voor 
-De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth terminal", is beschikbaar op de google playstore en zou ook op de iphone app store beschikbaar moeten zijn.
+Video met alle uitleg die je nodig hebt voor bluetooth module in te stellen: **https://www.youtube.com/watch?v=A0uFtI_hX6Q **
+
+De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth terminal", is beschikbaar op de google playstore.
 
 #### commando's
 debug [on/off]  
@@ -26,7 +27,9 @@ calibrate white
 uitleg kalibratie  
 
 ### settings
-De robot rijdt stabiel met volgende parameters:  
+De robot rijdt stabiel met volgende parameters:
+
+<img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/6006d03a-6061-4515-8e00-b453b1622d8a" />
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+

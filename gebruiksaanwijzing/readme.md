@@ -1,11 +1,13 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Batterijen worden opgeladen met een lader die specifiek ontworpen is voor 18650 (Lithium) batterijen. Voor de batterijen kunnen worden ingestoken of verwijderd moet er gecontroleerd worden of de hoofdschakelaar van de linefollower uitstaat 
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Er wordt een hc-05 gebruikt. **Werkt alleen met android!**
+Voor 
+De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth terminal", is beschikbaar op de google playstore en zou ook op de iphone app store beschikbaar moeten zijn.
 
 #### commando's
 debug [on/off]  

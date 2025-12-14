@@ -28,11 +28,21 @@ Maak nu een gleuf 5mm van de batterij houder box voor de sensor. Groot genoeg zo
 Neem een lijmpistool en lijm de motoren en de sensor array aan het frame.
 ### stap 9
 Verbind nu alles met elkaar, Zoals op het schema. Dit staat onder technische tekeningen -> elektronisch.
+
+Het zou er nu zo ongeveer moeten uitzien:
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/37a8fb4b-0635-443a-aef6-89b0c0697dec" />
+
 ### stap 10 
+Upload de final code. De follower heeft nu de mogelijkheid om de lijn te volgen.
+### stap 11
+Print de parcours. Steek de batterijen in de houder en zet de schakelaar aan. De arduino, apparte led, H-brug en blutooth module zouden nu moeten oplichten.
+### stap 12 
+Verbind met de smartphone met de Follower en test. Pas de waarde aan van de PID regelaar zodat de lijn goed gevolgd wordt.
 
+Hier zijn mijn instellingen:
 
+<img width="350" height="205" alt="image" src="https://github.com/user-attachments/assets/c38ff856-c8b0-4da9-a5a6-80b79d5811ff" />
 
-
-
-
-
+Vergeet niet opnieuw wit en zwart te calibreren op het parcour!
+Veel plezier!

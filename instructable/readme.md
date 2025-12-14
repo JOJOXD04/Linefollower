@@ -18,7 +18,7 @@ Voor het programma te uploaden naar de arduino. Moet de juiste arduino gelinkt w
 ### stap 5
 Print het frame dat te vinden is onder technische tekeningen -> mechanisch. Hier kan het stl bestand gevonden worden. 
 ### stap 6
-Zaag een stuk van een slotbout zet er 2 rondellen van 1mm dikte op (wordt gebruikt als volgwiel). Steek het in het gat dat in het frame zit met de bolle kant naar beneden.
+Zaag een stuk van een slotbout zet er 2 rondellen van 1mm dikte op (wordt gebruikt als volgwiel). Steek het in het gat dat in het frame zit met de bolle kant naar beneden. Lijm het vast aan het frame met een lijmpistool.
 
 <img width="585" height="175" alt="image" src="https://github.com/user-attachments/assets/9c9fe35b-bca3-4c00-85b6-f7c0916b7a52" />
 

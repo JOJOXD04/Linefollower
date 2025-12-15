@@ -31,5 +31,4 @@ De robot rijdt stabiel met volgende parameters:
 
 <img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/6006d03a-6061-4515-8e00-b453b1622d8a" />
 
-### start/stop button
 
